@@ -1,0 +1,106 @@
+{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red217\green11\blue0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 04-13 15:26:37.027  19617-19617/edu.washington.xyju.activityspy I/SELinux
+\f1 \'a9\'73
+\f0  Function: selinux_android_load_priority [0], There is no sepolicy file.\
+04-13 15:26:37.027  19617-19617/edu.washington.xyju.activityspy I/SELinux
+\f1 \'a9\'73
+\f0  Function: selinux_android_load_priority , loading version is VE=SEPF_GT-I9508_4.4.2_0032\
+04-13 15:26:37.027  19617-19617/edu.washington.xyju.activityspy I/SELinux
+\f1 \'a9\'73
+\f0  selinux_android_seapp_context_reload: seapp_contexts file is loaded from /data/security/spota/seapp_contexts\
+04-13 15:26:37.137  19617-19617/edu.washington.xyju.activityspy W/ApplicationPackageManager
+\f1 \'a9\'73
+\f0  getCSCPackageItemText()\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 12209: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 12215: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled\
+04-13 15:26:37.187  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 9780: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 392: Landroid/content/res/TypedArray;.getChangingConfigurations ()I\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 414: Landroid/content/res/TypedArray;.getType (I)I\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawable\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 355: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy I/dalvikvm
+\f1 \'a9\'73
+\f0  Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawableForDensity\
+04-13 15:26:37.198  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  VFY: unable to resolve virtual method 357: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;\
+04-13 15:26:37.228  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onCreate event fired\
+04-13 15:26:37.228  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onStart event fired\
+04-13 15:26:37.238  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onResume event fired\
+04-13 15:26:37.298  19617-19617/edu.washington.xyju.activityspy I/Adreno-EGL
+\f1 \'a9\'73
+\f0  <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build:  (CL3869936)\
+    OpenGL ES Shader Compiler Version: 17.01.11.SPL\
+    Build Date: 01/17/14 Fri\
+    Local Branch:\
+    Remote Branch:\
+    Local Patches:\
+    Reconstruct Branch:\
+04-13 15:26:37.348  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onCreateOptionsMenu event fired\
+04-13 15:27:03.033  19617-19617/edu.washington.xyju.activityspy W/dalvikvm
+\f1 \'a9\'73
+\f0  method Landroid/support/v7/internal/widget/ListViewCompat;.lookForSelectablePosition incorrectly overrides package-private method with same name in Landroid/widget/ListView;\
+04-13 15:27:04.344  19617-19617/edu.washington.xyju.activityspy W/InputEventReceiver
+\f1 \'a9\'73
+\f0  Attempted to finish an input event but the input event receiver has already been disposed.\
+04-13 15:27:04.364  19617-19617/edu.washington.xyju.activityspy W/InputEventReceiver
+\f1 \'a9\'73
+\f0  Attempted to finish an input event but the input event receiver has already been disposed.\
+04-13 15:27:04.364  19617-19617/edu.washington.xyju.activityspy W/ViewRootImpl
+\f1 \'a9\'73
+\f0  Dropping event due to root view being removed: MotionEvent \{ action=ACTION_MOVE, id[0]=0, x[0]=416.0, y[0]=724.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2360512, downTime=2360495, deviceId=9, source=0x1002 \}\
+04-13 15:27:04.364  19617-19617/edu.washington.xyju.activityspy E/ViewRootImpl
+\f1 \'a9\'73
+\f0  sendUserActionEvent() mView == null\
+04-13 15:27:05.825  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onPause event fired\
+04-13 15:27:06.406  19617-19617/edu.washington.xyju.activityspy I/MainActivity
+\f1 \'a9\'73
+\f0  onStop event fired\
+\cf2 04-13 15:27:06.406  19617-19617/edu.washington.xyju.activityspy E/MainActivity
+\f1 \'a9\'73
+\f0  We\'92re going down, Captain!\cf0 \
+}
